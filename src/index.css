@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+body {
+  @apply bg-zinc-900 text-white;
+}
