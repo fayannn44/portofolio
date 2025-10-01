@@ -6,6 +6,7 @@ import Portfolio from "./component/Portfolio";
 import Sertiv from "./component/Sertiv";
 import Contact from "./component/Contact";
 import Footer from "./component/Footer";
+import Memo from "./component/Memories";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Skills />
       <Portfolio />
       <Sertiv />
+      <Memo/>
       <Contact />
       <Footer />
       

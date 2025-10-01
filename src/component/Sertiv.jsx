@@ -17,7 +17,7 @@ const Sertiv = () => {
             <h3 className="text-lg font-bold text-yellow-300">
               React Dasar
             </h3>
-            <p className="text-yellow-300 text-sm mt-2">
+            <p className="text-white text-sm mt-2">
               Sertifikat penyelesaian kelas React untuk pemula.
             </p>
           </div>
@@ -33,7 +33,7 @@ const Sertiv = () => {
             <h3 className="text-lg font-bold text-yellow-300">
             Dasar html & css
             </h3>
-            <p className="text-yellow-300 text-sm mt-2">
+            <p className="text-white text-sm mt-2">
               Sertifikat penyelesaian kelas dasar HTML & CSS.
             </p>
           </div>
@@ -49,7 +49,7 @@ const Sertiv = () => {
             <h3 className="text-lg font-bold text-yellow-300">
             Dasar AI
             </h3>
-            <p className="text-yellow-300 text-sm mt-2">
+            <p className="text-white text-sm mt-2">
               Sertifikat penyelesaian kelas dasar AI.
             </p>
           </div>
