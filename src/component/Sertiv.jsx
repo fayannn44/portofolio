@@ -1,6 +1,7 @@
 import sertiv from "../assets/react.png";
 import dasar from "../assets/html-dan-css.png";
 import ai from "../assets/dasar-ai.png";
+import ai2 from "../assets/ai2025.png";
 
 const Sertiv = () => {
   return (
@@ -41,7 +42,7 @@ const Sertiv = () => {
 
         <div className="bg-zinc-800 rounded-xl shadow-lg overflow-hidden">
           <img
-            src={ai}
+            src={ai2}
             alt="Sertifikat AI"
             className="w-full h-40 object-cover"
           />
