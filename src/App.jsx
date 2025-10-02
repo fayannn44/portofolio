@@ -1,4 +1,4 @@
-import Nav from "./component/Nav";
+import Nav from "./component/nav";
 import Section from "./component/section";
 import About from "./component/about";
 import Skills from "./component/Skills";
